@@ -1,0 +1,13 @@
+# General mac stuff
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# python virtual enviroment
+env/
+
+# package building
+build/
+dist/
+eggs/
+*.egg-info/
